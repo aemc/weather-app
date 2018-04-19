@@ -19,6 +19,5 @@ You will need to install Node.js. See below for the download link.
 2. Open your browser and navigate to ```localhost:8080``` to see the app running.
 
 ### Built With
-* [Node.js](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine
-* [Express](https://expressjs.com/) - Backend framework
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 * [Bootstrap 4](https://getbootstrap.com/) - Frontend library
