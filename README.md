@@ -2,6 +2,14 @@
 
 Web app that allows the user to get a five-day forecast of a Canadian city via a search bar.
 
+## What I learned
+1. React - components
+2. Redux - actions, reducers, containers
+3. React middlewares - modify actions before they hit reducers
+3. React promises - handle async calls
+4. Google Map API
+5. OpenWeatherMap API
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and/or testing purposes.
 
