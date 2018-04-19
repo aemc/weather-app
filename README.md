@@ -5,8 +5,7 @@ Web app that allows the user to get a five-day forecast of a Canadian city via a
 ## What I learned
 1. React - components
 2. Redux - actions, reducers, containers
-3. React middlewares - modify actions before they hit reducers
-3. React promises - handle async calls
+3. React middlewares - react-promise (handle async calls), modify actions before they hit reducers
 4. Google Map API
 5. OpenWeatherMap API
 
@@ -24,7 +23,7 @@ You will need to install Node.js. See below for the download link.
 
 ### Running
 1. Run ```$ npm start``` on the cli within the root of the project folder.
-2. Open your browser and navigate to ```localhost:8080``` to see the app running.
+2. Open the browser and navigate to ```localhost:8080``` to see the app running.
 
 ### Built With
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
